@@ -1,6 +1,6 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1000&color=000000&width=500&lines=Welcom+to+the+Faisal+Khan's+Github+profile)](https://git.io/typing-svg)
 [![Banner Image](https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif)](https://faisal786111.io)
-<h1 align="center">Hi 👋, I'm Faisal Khan</h1>
-<h3 align="center">A passionate full-stack developer from India</h3>
+<h1 align="center">A passionate full-stack developer from India</h1>
 <img align = "right" alt="coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faisal&label=Profile%20views&color=0e75b6&style=flat" alt="faisal" /> </p>
 
