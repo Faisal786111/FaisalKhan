@@ -5,7 +5,7 @@
 </div>
 
 [![Banner Image](https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif)](https://faisal786111.io)
-<h1 align="center">A passionate Java developer from India</h1>
+<h1 align="center">A passionate MERN Stack developer from India</h1>
 <img align = "right" alt="coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faisal&label=Profile%20views&color=0e75b6&style=flat" alt="faisal" /> </p>
 
